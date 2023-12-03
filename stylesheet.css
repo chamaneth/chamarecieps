@@ -104,20 +104,20 @@ Card old
 }
 */
 .card1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("new/mobile-top-1-6.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("mobile-top-1-6.png");
 
     background-size: cover;
     
 }
 
 .card2 {
-    background-image: url("new/mont-blanc-chestnut-mousse-dessert.webp");
+    background-image: url("mont-blanc-chestnut-mousse-dessert.webp");
     background-size: cover;
 
 }
 
 .card3 {
-    background-image: url("new/ww.jpg");
+    background-image: url("ww.jpg");
     background-size: cover;
 
 

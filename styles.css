@@ -31,12 +31,12 @@ body{
     background-size: cover;
 }
 .card1 {
-    background-image: url("new/colombo-dishes.jpg");
+    background-image: url("colombo-dishes.jpg");
  
 }
 
 .card2 {
-    background-image: url("new/kiribath.jpg");
+    background-image: url("kiribath.jpg");
    
 
 }
@@ -46,16 +46,16 @@ body{
   }
   
   .card3{
-    background-image: url("new/jpn.webp");
+    background-image: url("jpn.webp");
   }
   .card4{
-    background-image: url("new/kimchi_ready_to_eat.webp");
+    background-image: url("kimchi_ready_to_eat.webp");
   }
   .card5{
-    background-image: url("new/DSC_4057.jpg");
+    background-image: url("DSC_4057.jpg");
   }
   .card6{
-    background-image: url("new/374344.jpg");
+    background-image: url("374344.jpg");
   }
  .kimchi{
   font-family: "robotic";
@@ -74,10 +74,10 @@ body{
     padding-inline-start: 30px;
  }
  .card7{
-  background-image: url("new/maalu paan.jpg");
+  background-image: url("maalu paan.jpg");
 }
 .card8{
-  background-image: url("new/butter.jpg");
+  background-image: url("butter.jpg");
 }
 .ingredient{
   font-size: 16px;
